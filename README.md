@@ -49,7 +49,7 @@ Oh!! &  if you're looking for me on social media, good luck! The only place you'
 <p align=center>
   <div align=center>
     <a href="https://github.com/PritamChakrabortyShuvo" title="Go to Source">
-      <img align="center" width=390 src="https://streak-stats.demolab.com/?user=PritamChakrabortyShuvo&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="center" width=390 src="https://streak-stats.demolab.com/?user=PritamChakrabortyShuvo&theme=react&border=61dafb&theme=react&border_color=61dafb&border_radius=10" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/PritamChakrabortyShuvo" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=PritamChakrabortyShuvo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
