@@ -70,7 +70,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/PritamChakrabortyShuvo/Docker" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Docker&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/PritamChakrabortyShuvo/Docker" title="Turkce-Heceleme-CPP"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Docker&theme=react&border_color=61dafb&border_radius=10"></a>
   <a></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
