@@ -44,24 +44,15 @@ Oh!! &  if you're looking for me on social media, good luck! The only place you'
 
 <!------------------------------Add Stats Here------------------------------------>
 <h2 align="center">Stats</h2>
-<br>
-<p align=center>
-  <div align=center>
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="zumrudu-anka" />
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=PritamChakrabortyShuvo&theme=react&hide_border=false" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-    <div align=center>
-      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="zumrudu-anka" />
-    </div>
-    <br><br>
-    <div align=center>
-      <img align="center" width=390 src="https://github-contributor-stats.vercel.app/api?username=PritamChakrabortyShuvo&limit=5&theme=react&combine_all_yearly_contributions=true" alt="zumrudu-anka" />
-    </div>
-  <br>
+<div align=center>
+
+![](https://github-readme-stats.vercel.app/api?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true) <br/><br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PritamChakrabortyShuvo&theme=react&hide_border=false)<br/><br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/><br/>
+![](https://github-contributor-stats.vercel.app/api?username=PritamChakrabortyShuvo&limit=5&theme=react&combine_all_yearly_contributions=true)<br/><br/>
+
 <!--------------------------------Graph------------------------------------>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PritamChakrabortyShuvo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=PritamChakrabortyShuvo&theme=react-dark&bg_color=20232a&hide_border=true)
 <!--------------------------------Repositories------------------------------------>
 <h2 align="center">Repositories</h2>
 <br>
