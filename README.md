@@ -1,5 +1,5 @@
 ![logo](https://media.licdn.com/dms/image/v2/D5616AQHgrxMbKb94dw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719639841342?e=1732752000&v=beta&t=FQISmkaa0gJxcX5XzLF8WIlNXWqrTAtrd0OKhGaoug8)
- align="center">Hi 👋, I'm Pritam
+ <h2 align="center">Hi 👋, I'm Pritam</h2>
 <h3 align="center">Always seeking new challenges to learn and grow</h3>
 
 <p style="text-align: justify;">I'm on a journey to becoming a DevOps engineer, currently exploring AWS, Linux, and Docker. Next on my learning path are Kubernetes, CI/CD pipelines with Jenkins, and Terraform for infrastructure as code. My goal is to automate, scale, and optimize systems for seamless development and operations.</p>
@@ -59,9 +59,11 @@
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PritamChakrabortyShuvo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PritamChakrabortyShuvo&theme=react-dark&bg_color=20232a&hide_border=true" style="border-radius: 15px; border: 1px solid #5dd0ef; width: 100%;" />
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PritamChakrabortyShuvo&theme=react-dark&bg_color=20232a&hide_border=true" style="border-radius: 10px; width: 100%;" />
+
+</p>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
