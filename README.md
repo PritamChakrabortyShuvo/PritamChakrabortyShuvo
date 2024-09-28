@@ -65,7 +65,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/PritamChakrabortyShuvo/Docker" title="Turkce-Heceleme-CPP"><img align="left" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Docker&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/PritamChakrabortyShuvo/Docker" title="Turkce-Heceleme-CPP"><img align="left" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Docker&theme=react&border_color=61dafb&border_radius=10"></a>
   
 </div>
 <br/><br/><br/><br/><br/><br/>
