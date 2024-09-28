@@ -68,14 +68,15 @@
   <a align="left" href="https://github.com/PritamChakrabortyShuvo/Linux" title="Linux"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Linux&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/PritamChakrabortyShuvo/Git-GitHub" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Git-GitHub&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/>
+<br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="center" href="https://github.com/PritamChakrabortyShuvo/Docker" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Docker&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-<div width="100%"  align="center">
+
 <h4 align="center">
   <a href="https://github.com/PritamChakrabortyShuvo?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-</div>
+
