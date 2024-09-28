@@ -59,9 +59,8 @@
   </div>
   <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PritamChakrabortyShuvo&theme=react-dark&bg_color=20232a&hide_border=true" style="border-radius: 15px; border: 1px solid #5dd0ef; width: 100%;" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PritamChakrabortyShuvo&theme=react-dark&bg_color=20232a&hide_border=true&border_color=61dafb&border_radius=10" style="border-radius: 15px; border: 1px solid #5dd0ef; width: 100%;" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PritamChakrabortyShuvo&theme=react-dark&bg_color=20232a&hide_border=true" style="border-radius: 10px; width: 100%;" />
 
 </p>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
