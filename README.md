@@ -61,7 +61,7 @@ Oh!! &  if you're looking for me on social media, good luck! The only place you'
   <div align=center>
     <a><img align="center" width=50% src="https://github-contributor-stats.vercel.app/api?username=PritamChakrabortyShuvo&limit=3&theme=react&combine_all_yearly_contributions=true" /></a>
   <br/>  <br/></br>
-
+<h2 align="center">Contribution Graph</h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PritamChakrabortyShuvo&theme=react-dark&bg_color=20232a&hide_border=true"  />
 
 </p>
