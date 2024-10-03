@@ -47,16 +47,16 @@ Oh!! &  if you're looking for me on social media, good luck! The only place you'
 <div align=center>
 <p align=center>
   <div align=center>
-    <a href="https://github-readme-stats.vercel.app/api?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=PritamChakrabortyShuvo&theme=react&hide_border=false" />
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" title="Go to Source">
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamChakrabortyShuvo&layout=compact&theme=react" /></a>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=PritamChakrabortyShuvo&theme=react&_border=false&include_all_commits=true&count_private=true" />
-    </a>
+   </a>
   </div>
   <br>  <br/>
   <div align=center>
-    <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamChakrabortyShuvo&layout=compact&theme=react" /></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true" title="Go to Source">
+      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=PritamChakrabortyShuvo&theme=react&hide_border=false" />
+    </a>
   <br/></br>
   <div align=center>
     <a><img align="center" width=50% src="https://github-contributor-stats.vercel.app/api?username=PritamChakrabortyShuvo&limit=3&theme=react&combine_all_yearly_contributions=true" /></a>
