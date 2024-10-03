@@ -84,7 +84,7 @@ Oh!! &  if you're looking for me on social media, good luck! The only place you'
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/PritamChakrabortyShuvo/Docker" title="Linux"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Docker&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/PritamChakrabortyShuvo/Deep-Learning-Framework-to-Classify-Violence-and-Non_Violence-in-Films-for-Sensitive-Viewers" title="Film Violence Classification Framework"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Deep-Learning-Framework-to-Classify-Violence-and-Non_Violence-in-Films-for-Sensitive-Viewers&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/PritamChakrabortyShuvo/Deep-Learning-Framework-to-Classify-Violence-and-Non_Violence-in-Films-for-Sensitive-Viewers" title="Film Violence Classification Framework"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Film Violence Classification Framework&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <h4 align="center">
