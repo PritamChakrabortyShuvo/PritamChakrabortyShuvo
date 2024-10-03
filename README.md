@@ -1,4 +1,4 @@
-![logo](https://ibb.co.com/0JZHpBF)
+<img src="https://i.ibb.co.com/dK68sbL/Git-Hub-Profile-Banner-Pritam.png" alt="Git-Hub-Profile-Banner-Pritam" border="0">
 <h1 align="center">Hi!!, I'm Pritam Chakaraborty</h1>
 <h3 align="center">DevOps | Linux | Git | AWS | Docker | Jenkins | Kubernetes</h3>
 
