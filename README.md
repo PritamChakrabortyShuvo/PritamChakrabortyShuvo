@@ -46,24 +46,52 @@ Oh!! &  if you're looking for me on social media, good luck! The only place you'
 <h2 align="center">Stats</h2>
 <div align=center>
 
+<h3 align="center">My Stats</h3>
+<br>
+
+<p align=center>
+  <div align=center>
+    <a href="https://github-readme-stats.vercel.app/api?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true" title="Go to Source">
+      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=PritamChakrabortyShuvo&theme=react&hide_border=false" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=PritamChakrabortyShuvo&theme=react&_border=false&include_all_commits=true&count_private=true" />
+    </a>
+  </div>
+  <br>
+  <div align=center>
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamChakrabortyShuvo&layout=compact&theme=react" /></a>
+  <br/></br>
+  <div align=center>
+    <a><img align="center" width=50% src="https://github-contributor-stats.vercel.app/api?username=PritamChakrabortyShuvo&limit=3&theme=react&combine_all_yearly_contributions=true" /></a>
+  <br/>
+
+  </div>
+  <br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PritamChakrabortyShuvo&theme=react-dark&bg_color=20232a&hide_border=true"  />
+
+</p>
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true) <br/><br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PritamChakrabortyShuvo&theme=react&hide_border=false)<br/><br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/><br/>
 ![](https://github-contributor-stats.vercel.app/api?username=PritamChakrabortyShuvo&limit=5&theme=react&combine_all_yearly_contributions=true)<br/><br/>
-
-<!--------------------------------Graph------------------------------------>
+-->
+<!--------------------------------Graph-----------------------------------
   ![](https://github-readme-activity-graph.vercel.app/graph?username=PritamChakrabortyShuvo&theme=react-dark&bg_color=20232a&hide_border=true)
+-->
 <!--------------------------------Repositories------------------------------------>
 <h2 align="center">Repositories</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/PritamChakrabortyShuvo/Linux" title="Linux"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Linux&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/PritamChakrabortyShuvo/Git-GitHub" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Git-GitHub&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/PritamChakrabortyShuvo/Linux" title="Linux"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Linux&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/PritamChakrabortyShuvo/Git-GitHub" title="Minesweeper"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Git-GitHub&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/PritamChakrabortyShuvo/Docker" title="Turkce-Heceleme-CPP"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Docker&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a></a>
+  <a align="left" href="https://github.com/PritamChakrabortyShuvo/Docker" title="Linux"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Docker&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/PritamChakrabortyShuvo/Git-GitHub" title="Minesweeper"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=PritamChakrabortyShuvo&repo=Git-GitHub&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
