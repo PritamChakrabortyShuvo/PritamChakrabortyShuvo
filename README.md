@@ -50,7 +50,7 @@ Oh!! &  if you're looking for me on social media, good luck! The only place you'
 <div align=center>
 <p align=center>
   <div align=center>
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamChakrabortyShuvo&layout=compact&theme=react" /></a>
+  <a><img align="center" width=410 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamChakrabortyShuvo&layout=compact&theme=react" /></a>
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" title="Go to Source">
       <img align="right" width=410 src="https://github-readme-stats.vercel.app/api?username=PritamChakrabortyShuvo&theme=react&_border=false&include_all_commits=true&count_private=true" />
    </a>
@@ -58,7 +58,7 @@ Oh!! &  if you're looking for me on social media, good luck! The only place you'
   <br>  <br/>
   <div align=center>
     <a href="https://github-readme-stats.vercel.app/api?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true" title="Go to Source">
-      <img align="center" width=4100 src="https://github-readme-streak-stats.herokuapp.com/?user=PritamChakrabortyShuvo&theme=react&hide_border=false" />
+      <img align="center" width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=PritamChakrabortyShuvo&theme=react&hide_border=false" />
     </a>
   <br/></br>
   <div align=center>
