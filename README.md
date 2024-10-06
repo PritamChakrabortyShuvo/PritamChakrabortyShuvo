@@ -94,10 +94,11 @@ Oh!! &  if you're looking for me on social media, good luck! The only place you'
   <a href="https://github.com/PritamChakrabortyShuvo?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<!--------------------------------Trophies------------------------------------>
-<h2 align="center">GitHub Trophies</h2>
-<div align="center">
-    <a href="https://github.com/PritamChakrabortyShuvo/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=PritamChakrabortyShuvo&theme=react&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
-    </a>
-</div>
+<!--------------------------------Trophies
+  <h2 align="center">GitHub Trophies</h2>
+  <div align="center">
+      <a href="https://github.com/PritamChakrabortyShuvo/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=PritamChakrabortyShuvo&theme=react&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+      </a>
+  </div>
+------------------------------------>
