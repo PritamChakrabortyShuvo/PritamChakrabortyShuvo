@@ -3,7 +3,7 @@
 <!--------------------------------------------------------------------------------->
 <!-------------------------------Introduction-------------------------------------------->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ccd0&lines=Hey,+There!+I+am+Pritam+Chakraborty;Welcome+to+my+GitHub+Profile;&center=true&width=800&height=45" alt="pritam">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00b4d8&lines=Hey,+There!+I+am+Pritam+Chakraborty;Welcome+to+my+GitHub+Profile;&center=true&width=800&height=45" alt="pritam">
 <!---------------------------------------------------------------------------------------->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </h1>
@@ -19,7 +19,7 @@
 </align=>
 <!---------------------------------------------------------------------------------------->
 <!------------------------------Current Working Field------------------------------------>
-<h3 align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=00ccd0&lines=DevOps+|+Linux+|+Git+|+AWS+|+Docker+|+Jenkins+|+Kubernetes;&center=true&width=1000&height=45" alt="pritam"></h3>
+<h3 align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=00b4d8&lines=DevOps+|+Linux+|+Git+|+AWS+|+Docker+|+Jenkins+|+Kubernetes;&center=true&width=900&height=45" alt="pritam"></h3>
 I'm an aspiring DevOps engineer on a mission to master the world of automation and infrastructure. Currently I’m diving into a wide array of technologies including Linux, Git, Docker, AWS, Kubernetes, Jenkins, Terraform & Grafana aiming to bring efficiency and scalability to development & operations. Along this journey, I’m also working towards earning certifications like GitHub Foundations, AWS Certified Cloud Practitioner, Linux Professional Institute LPIC-1 & AWS Certified Solutions Architect. But that’s just the start I'm excited to explore even more DevOps tools and pursue additional certifications as I continue to grow.
 
 Oh!! &  if you're looking for me on social media, good luck! The only place you'll find me is LinkedIn. I guess I save my networking for the cloud!🌩️
