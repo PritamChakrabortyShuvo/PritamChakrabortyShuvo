@@ -3,7 +3,7 @@
 <!--------------------------------------------------------------------------------->
 <!-------------------------------Introduction-------------------------------------------->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00b4d8&lines=Hey,+There!+I+am+Pritam+Chakraborty;Welcome+to+my+GitHub+Profile;&center=true&width=800&height=45" alt="pritam">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00b4d8&lines=Hi!!+I+am+Pritam+Chakraborty;Welcome+to+my+GitHub+Profile;&center=true&width=800&height=45" alt="pritam">
 <!---------------------------------------------------------------------------------------->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </h1>
