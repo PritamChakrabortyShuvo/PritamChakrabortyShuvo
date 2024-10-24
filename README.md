@@ -1,5 +1,7 @@
 <!-------------------------------Banner-------------------------------------------->
-<img src="https://i.ibb.co.com/dK68sbL/Git-Hub-Profile-Banner-Pritam.png" alt="Git-Hub-Profile-Banner-Pritam" border="0">
+<div align="center">
+    <img src="Images/Animated.gif" alt="Project Logo" width=100%>
+</div>
 <!--------------------------------------------------------------------------------->
 <!-------------------------------Introduction-------------------------------------------->
 <h1 align="center">
@@ -26,7 +28,8 @@ I'm an aspiring DevOps engineer on a mission to master the world of automation a
 If you're looking for me on social media good luck! The only place you'll find me is **LinkedIn**. I guess, I save my **networking** for the **Cloud!🌩️**
 <!---------------------------------------------------------------------------------------->
 <!------------------------------Gif------------------------------------>
-<img align = "right" alt = "coding" width="300" src = "https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"> </br>
+<img align = "right" alt = "coding" width="300" src = "https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"> 
+</br>
 <!---------------------------------------------------------------------------------------->
 <!------------------------------Present Condition------------------------------------>
 - 🔭Currently working on **Expanding my expertise in DevOps and mastering a wide range of DevOps tools.**
