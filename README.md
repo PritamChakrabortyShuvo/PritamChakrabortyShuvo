@@ -26,7 +26,7 @@
 I'm an aspiring DevOps engineer on a mission to master the world of automation and infrastructure. Currently I’m diving into a wide array of technologies including Linux, Git, Docker, AWS, Kubernetes, Jenkins, Terraform & Grafana aiming to bring efficiency and scalability to development & operations. Along this journey, I’m also working towards earning certifications like GitHub Foundations, AWS Certified Cloud Practitioner, Linux Professional Institute LPIC-1 & AWS Certified Solutions Architect. But that’s just the start I'm excited to explore even more DevOps tools and pursue additional certifications as I continue to grow.
 <br></br>
 
-If you're looking for me on social media good luck! The only place you'll find me is **LinkedIn**. I guess, I save my **networking** for the **Cloud!🌩️**
+If you're looking for me on social media good luck! The only place you'll find me is [**LinkedIn**](in/pritam-chakrabortyshuvo). I guess, I save my **networking** for the **Cloud!🌩️**
 <!---------------------------------------------------------------------------------------->
 <!------------------------------Gif------------------------------------>
 <img align = "right" alt = "coding" width="300" src = "https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"> 
