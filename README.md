@@ -32,7 +32,8 @@ If you're looking for me on social media good luck! The only place you'll find m
 </br>
 <!---------------------------------------------------------------------------------------->
 <!------------------------------Present Condition------------------------------------>
-- 🔭Currently working on **Expanding my expertise in DevOps and mastering a wide range of DevOps tools.**
+
+- 🔭 Currently working on **Expanding my expertise in DevOps and mastering a wide range of DevOps tools**.
 
 - 🌱 I’m currently learning **Linux** & **Git**
 
