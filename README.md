@@ -57,7 +57,7 @@ If you're looking for me on social media good luck! The only place you'll find m
 <p align="left">
 <a href="https://linkedin.com/in/pritam-chakrabortyshuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-chakrabortyshuvo" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/pritamchakrashuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anik303" height="30" width="40" /></a>
-<a href="mailto:pritamchakrabortyshuvo@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="38" width="38" /></a>
+<a href="mailto:pritamchakrabortyshuvo@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="38" width="40" /></a>
 </p>
 <!---------------------------------------------------------------------------------------->
 <!------------------------------Language & Tools----------------------------------->
