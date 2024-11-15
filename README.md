@@ -40,7 +40,7 @@ If you're looking for me on social media good luck! The only place you'll find m
 
 - 📌 Focusing on Certifications Like **AWS Certified Cloud Practitioner, AWS Certified Solutions Architect, Linux Professional Institute LPIC-1.**
 
-- 🏆 Achieved Certificates Like **GitHub Foundation**.
+- 🏆 Achieved Certifications such as **GitHub Foundation**.
 
 - 🤝 I’m looking for help with **DevOps Tools**, **Learning Resources** & **Mentorship**
 
