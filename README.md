@@ -38,7 +38,7 @@ If you're looking for me on social media good luck! The only place you'll find m
 
 - 🌱 I’m currently learning **Linux** & **Git**
 
-- 📌 Focusing on Certifications Like **GitHub Foundation, AWS Certified Cloud Practitioner, Linux Professional Institute LPIC-1, AWS Certified Solutions Architect.**
+- 📌 Focusing on Certifications Like **AWS Certified Cloud Practitioner, AWS Certified Solutions Architect, Linux Professional Institute LPIC-1.**
 
 - 🏆 Achieved Certificates Like **GitHub Foundation**.
 
