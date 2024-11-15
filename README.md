@@ -40,6 +40,8 @@ If you're looking for me on social media good luck! The only place you'll find m
 
 - 📌 Focusing on Certifications Like **GitHub Foundation, AWS Certified Cloud Practitioner, Linux Professional Institute LPIC-1, AWS Certified Solutions Architect.**
 
+- 🏆 Achieved Certificates Like **GitHub Foundation**.
+
 - 🤝 I’m looking for help with **DevOps Tools**, **Learning Resources** & **Mentorship**
 
 - 👨‍💻 All of my projects are available on here [GitHub](https://github.com/PritamChakrabortyShuvo).
