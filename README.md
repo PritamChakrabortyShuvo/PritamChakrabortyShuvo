@@ -31,7 +31,6 @@ If you're looking for me on social media good luck! The only place you'll find m
 <!------------------------------Gif------------------------------------>
 
 <img align="Right" src="Images/Coding-Gif.gif" alt="Project Logo" width=350>
-</br>
 <!---------------------------------------------------------------------------------------->
 <!------------------------------Present Condition------------------------------------>
 
