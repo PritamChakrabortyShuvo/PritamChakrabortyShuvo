@@ -85,9 +85,11 @@ If you're looking for me on social media good luck! The only place you'll find m
   <div align=center>
     <!--<a><img align="center" width=50% src="https://github-contributor-stats.vercel.app/api?username=PritamChakrabortyShuvo&limit=3&theme=react&combine_all_yearly_contributions=true" /></a>-->
   <br/>
+<!--
 <h2 align="center">Contribution Graph</h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PritamChakrabortyShuvo&theme=react-dark&bg_color=20232a&hide_border=true"  />
 </p>
+-->
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=PritamChakrabortyShuvo&theme=react&hide_border=false&include_all_commits=true&count_private=true) <br/><br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PritamChakrabortyShuvo&theme=react&hide_border=false)<br/><br/><br/>
