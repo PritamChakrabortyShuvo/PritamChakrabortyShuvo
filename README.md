@@ -29,7 +29,8 @@ I'm an aspiring DevOps engineer on a mission to master the world of automation a
 If you're looking for me on social media good luck! The only place you'll find me is [**LinkedIn**](in/pritam-chakrabortyshuvo). I guess, I save my **Networking** for the **Cloud!🌩️**
 <!---------------------------------------------------------------------------------------->
 <!------------------------------Gif------------------------------------>
-<img align = "right" alt = "coding" width="350" src = "Images/Coding-Gif.gif"> 
+
+<img align="Right" src="Images/Coding-Gif.gif" alt="Project Logo" width=350>
 </br>
 <!---------------------------------------------------------------------------------------->
 <!------------------------------Present Condition------------------------------------>
