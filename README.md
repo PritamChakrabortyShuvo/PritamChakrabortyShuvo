@@ -30,7 +30,7 @@ If you're looking for me on social media good luck! The only place you'll find m
 <!---------------------------------------------------------------------------------------->
 <!------------------------------Gif------------------------------------>
 
-<img align = "right" alt = "coding" width="350" src = "Images/Coding-Gif-03.gif"> </br>
+<img align = "right" alt = "coding" width="300" src = "Images/Coding-Gif-03.gif"> </br>
 <!---------------------------------------------------------------------------------------->
 <!------------------------------Present Condition------------------------------------>
 
